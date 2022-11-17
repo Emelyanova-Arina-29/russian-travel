@@ -9,4 +9,4 @@
 
 **Ссылка на проект**
 
-* [Ссылка на GitHub Pages](https://emelyanova-arina-29.github.io/russian-travel/)
+* [Ссылка на GitHub Pages](https://emelyanova-arina-29.github.io/russian-travel)
